@@ -1,2 +1,1 @@
-# rnabtest
-React Native A/B test example using Optimizely
+# React Native A/B test example using Optimizely
